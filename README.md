@@ -115,30 +115,6 @@ R² = 0.017
 
 ---
 
-## Visualizations
-
-### Average Event-Day Move
-
-![Conference Moves](chart_1_conference.png)
-
-### Average Abnormal Return
-
-![Abnormal Returns](chart_2_conference.png)
-
-### Distribution of Abnormal Returns
-
-![Distribution](chart_3_conference.png)
-
-### Volatility vs Event-Day Move
-
-![Regression](chart_4_conference.png)
-
-### AI vs Traditional Technology Events
-
-![AI vs Traditional](chart_5_conference.png)
-
----
-
 ## Technologies Used
 
 - Python
